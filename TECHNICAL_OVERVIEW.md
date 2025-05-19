@@ -124,8 +124,5 @@ CSV Explanation:
 
 ## Conclusion: What Does This Project Show?
 - Real-world knowledge of log analysis and common attack patterns
-- Clean, modular, and well-documented Python code
-- Ability to write, test, and explain detection logic for cybersecurity use cases
-- **Ability to create a permanent, timestamped record of all analysis runs for audit and review, with SIEM-style output**
 
 This project is suitable for both learning and professional evaluation.
