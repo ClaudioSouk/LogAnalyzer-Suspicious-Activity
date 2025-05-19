@@ -1,0 +1,19 @@
+[
+  {
+    "EventID": 4624,
+    "AccountName": "user1",
+    "LogonType": 2,
+    "Status": "Success"
+  },
+  {
+    "EventID": 4625,
+    "AccountName": "user1",
+    "LogonType": 2,
+    "Status": "Failure"
+  },
+  {
+    "EventID": 4672,
+    "AccountName": "admin",
+    "PrivilegeList": "SeDebugPrivilege"
+  }
+]

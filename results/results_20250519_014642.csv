@@ -1,0 +1,9 @@
+Rule,IP,Endpoint,Method,Protocol,Status,ResponseSize,Description,Timestamp
+Brute-force,127.0.0.1,/login,POST,HTTP/1.1,401,128,"3 failed attempts (first: 19/May/2025:10:00:00, last: 19/May/2025:10:00:02)",19/May/2025:10:00:00 - 19/May/2025:10:00:02
+Brute-force,192.168.1.10,/login,POST,HTTP/1.1,401,128,"4 failed attempts (first: 19/May/2025:10:01:00, last: 19/May/2025:10:01:03)",19/May/2025:10:01:00 - 19/May/2025:10:01:03
+Brute-force,203.0.113.1,/login,POST,HTTP/1.1,401,128,"4 failed attempts (first: 19/May/2025:10:03:02, last: 19/May/2025:10:03:05)",19/May/2025:10:03:02 - 19/May/2025:10:03:05
+Brute-force,192.168.2.20,/login,POST,HTTP/1.1,401,128,"4 failed attempts (first: 19/May/2025:10:05:00, last: 19/May/2025:10:05:03)",19/May/2025:10:05:00 - 19/May/2025:10:05:03
+Brute-force,172.16.0.1,/login,POST,HTTP/1.1,401,128,"4 failed attempts (first: 19/May/2025:10:07:00, last: 19/May/2025:10:07:03)",19/May/2025:10:07:00 - 19/May/2025:10:07:03
+Unauthorized access,10.0.0.5,/admin,GET,HTTP/1.1,200,512,Accessed /admin,19/May/2025:10:02:02
+Unauthorized access,10.0.0.8,/secret,GET,HTTP/1.1,200,512,Accessed /secret,19/May/2025:10:04:02
+Unauthorized access,10.10.10.10,/admin,GET,HTTP/1.1,200,512,Accessed /admin,19/May/2025:10:06:02
